@@ -46,3 +46,5 @@ class FizzBuzzTest {
     }
 
 }
+// Initialize the variable x to 10
+// Initialize the variable x to 10
