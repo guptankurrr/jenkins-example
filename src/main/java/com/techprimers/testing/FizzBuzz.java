@@ -12,3 +12,5 @@ public class FizzBuzz {
         return String.valueOf(number);
     }
 }
+/* This section of code initializes the
+   variable x to 10 and y to 20. */
